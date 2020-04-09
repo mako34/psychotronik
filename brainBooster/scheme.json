@@ -1,0 +1,18 @@
+{
+    "title":"",
+    "description":"",
+    "category":"brainBooster",
+    "duration_minutes":"20",
+    "audio_source":"youtube",
+    "audio_source_URL":"",
+    "more_info_URL":"",
+    "light_frequencies":{
+        "intro_hz":"40",
+        "middle_hz":"12",
+        "outro_hz":"23"
+    },
+    "sound_frequencies":{
+        "left":"440",
+        "right":"450"
+    }
+}
